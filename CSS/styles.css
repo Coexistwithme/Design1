@@ -1,12 +1,17 @@
 h1 {
   font-family: 'Big Shoulders Stencil Text', cursive;
-  color: #00378f
+  color: white;
+  font-size: 5.0em
 }
 h2 {
   font-family: 'Big Shoulders Stencil Text', cursive;
-  color: #70a7ff
+  color: white
+}
+body {
+  background-color: black;
 }
 p {
-  font-family: 'Big Shoulders Stencil Text', cursive;
+  font-family: 'Nanum Gothic', sans-serif;
   font-weight: bold;
+  color: white
 }
