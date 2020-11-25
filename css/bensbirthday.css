@@ -1,0 +1,13 @@
+body {
+    background-image: repeating-linear-gradient(#010077, purple);
+}
+p {
+  color: white;
+  font-family: 'Stylish', sans-serif;
+  font-size: 30;
+}
+h1 {
+  color: white;
+  font-size: 50;
+  font-family: 'Sunflower', sans-serif;
+}
